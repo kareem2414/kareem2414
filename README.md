@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareem2414" alt="kareem2414" /></a> </p>
 
-- 🌱 I’m currently learning **Embeded System programming**
+- 🌱 I’m currently learning **Self driving cars**
 
-- 💬 Ask me about **Robotics, ROS, SLAM, Python, C++, embeded C**
+- 💬 Ask me about **Robotics, ROS, SLAM, Python, C++, Localization, State Estimation**
 
 - 📫 How to reach me **kareemahmed2414@gmail.com**
 
